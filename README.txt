@@ -4,3 +4,4 @@ Updating README with new information
 Updated README.txt from another location
 Sharing remotely is fun and easy
 Feature2
+Feature2 changes
